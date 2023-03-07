@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on management projects
 - 📫 How to reach me: chibuzorotu98@gmail.com
+- 📚 I'm currently studying on The ALX SE program
 
 <!---
 MaxTheDreaded/MaxTheDreaded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
